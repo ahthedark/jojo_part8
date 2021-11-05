@@ -4,5 +4,86 @@
   "artist": "Miura, Kentarou ",
   "author": "Miura, Kentarou",
   "cover": "https://cdn.myanimelist.net/images/manga/1/157897.jpg",
-  "chapters": {}
+  "chapters": {
+    "17": {
+      "title": "17",
+      "volume": "7",
+      "last_updated": "1636127222",
+      "groups": {
+        "": "https://drive.google.com/uc?export=view&id=10Rn5_uIHFQn4As3ux3Opxt6bk--ZqRfo"
+      }
+    },
+    "18": {
+      "title": "18",
+      "volume": "7",
+      "last_updated": "1636127230",
+      "groups": {
+        "": ""
+      }
+    },
+    "19": {
+      "title": "19",
+      "volume": "7",
+      "last_updated": "1636127234",
+      "groups": {
+        "": ""
+      }
+    },
+    "20": {
+      "title": "20",
+      "volume": "7",
+      "last_updated": "1636127236",
+      "groups": {
+        "": ""
+      }
+    },
+    "21": {
+      "title": "21",
+      "volume": "7",
+      "last_updated": "1636127239",
+      "groups": {
+        "": ""
+      }
+    },
+    "22": {
+      "title": "22",
+      "volume": "7",
+      "last_updated": "1636127243",
+      "groups": {
+        "": ""
+      }
+    },
+    "23": {
+      "title": "23",
+      "volume": "7",
+      "last_updated": "1636127247",
+      "groups": {
+        "": ""
+      }
+    },
+    "24": {
+      "title": "24",
+      "volume": "7",
+      "last_updated": "1636127249",
+      "groups": {
+        "": ""
+      }
+    },
+    "25": {
+      "title": "25",
+      "volume": "7",
+      "last_updated": "1636127252",
+      "groups": {
+        "": ""
+      }
+    },
+    "26": {
+      "title": "26",
+      "volume": "7",
+      "last_updated": "1636127254",
+      "groups": {
+        "": ""
+      }
+    }
+  }
 }
